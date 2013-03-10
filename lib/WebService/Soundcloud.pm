@@ -34,7 +34,7 @@ our %formats = (
    'xml'  => 'application/xml'
 );
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =pod
 
@@ -915,22 +915,29 @@ you find one.
 
 =head1 SUPPORT
 
-This is un-released developer code made available in case someone else might
-find it useful.
+You can find documentation for this module with the perldoc command.
+    perldoc WebService::Soundcloud
+    You can also look for information at:
 
-If you find a bug and can fix it, or have a feature request and can
-implement it then please feel free to fork the repository at
+=over 4
 
-    https://github.com/jonathanstowe/WebService-Soundcloud
+=item * RT: CPAN's request tracker (report bugs here)
+L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=WebService-Soundcloud>
 
-and send a pull request with your changes.  
+=item * AnnoCPAN: Annotated CPAN documentation
+L<http://annocpan.org/dist/WebService-Soundcloud>
 
+=item * CPAN Ratings
+L<http://cpanratings.perl.org/d/WebService-Soundcloud>
+
+=item * Search CPAN
+L<http://search.cpan.org/dist/WebService-Soundcloud/>
+
+=back
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright 2011 Mohan Prasad Gutta.
-          2013 Jonathan Stowe
-
+Copyright 2013 Mohan Prasad Gutta.
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published
 by the Free Software Foundation; or the Artistic License.
