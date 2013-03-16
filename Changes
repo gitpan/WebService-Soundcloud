@@ -8,3 +8,6 @@ Revision history for WebService-Soundcloud
 
 0.03    Sun, Mar 10 2013 19:30:00
         updated SUPPORT information in pod
+
+0.04    Sat, Mar 16 2013 12:15:00
+        Updated dependencies list in Build.PL

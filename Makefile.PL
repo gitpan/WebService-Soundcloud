@@ -11,7 +11,7 @@ WriteMakefile
                            'LWP::UserAgent' => 0,
                            'Test::More' => 0,
                            'URI' => 0,
-						   'LWP::Protocol::https'   => 0,
+			   'LWP::Protocol::https'   => 0,
                          },
           'INSTALLDIRS' => 'site',
           'EXE_FILES' => [],

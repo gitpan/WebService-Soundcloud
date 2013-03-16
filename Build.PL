@@ -12,7 +12,8 @@ my $builder = Module::Build->new(
         'LWP::UserAgent' => 0,
         'URI'            => 0,
         'JSON'           => 0,
-        'HTTP::Headers'  => 0
+        'HTTP::Headers'  => 0,
+        'LWP::Protocol::https'   => 0
     },
     requires           => { 'perl' => 5.006, },
     add_to_cleanup     => ['WebService-Soundcloud-*'],

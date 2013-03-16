@@ -34,7 +34,7 @@ our %formats = (
    'xml'  => 'application/xml'
 );
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =pod
 
